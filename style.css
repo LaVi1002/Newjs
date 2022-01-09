@@ -1,0 +1,49 @@
+#navbar{
+    background-color: rgb(103, 221, 205);
+}
+.head{
+   padding-right: 12px;
+   height: 40px;
+   border-left: 2px solid rgb(165, 5, 228);
+   border-right: 2px solid rgb(165, 5, 228);
+
+}
+.social-media{
+    height: 40px;
+    border-left: 2px solid rgb(165, 5, 228);
+    border-right: 2px solid rgb(165, 5, 228);
+    border-top: 5px;
+}
+#fa{
+    font-size: 20px;
+    color: rgb(202, 112, 39);
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+   
+}
+#fa:hover{
+    color: black;
+}
+.head span{
+      font-size: 15px;
+      font-weight: bolder;
+      color: rgb(202, 112, 39);
+}
+#navbar1{
+    background-color: rgb(218, 235, 122);
+}
+.head1{
+    margin: 0px;
+    padding-left: 80px;
+    border: none;
+    letter-spacing: normal;
+}
+#name
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    padding-right: 10px;
+    padding-left: 20px;
+    text-decoration: none;
+}
